@@ -1,0 +1,14 @@
+{
+  "db": {
+    "url": "",
+    "devUrl": "mongodb://localhost:27017/tm",
+    "name": "mongodb",
+    "dbName": "tm"
+  },
+  "server": {
+    "domain": "",
+    "devDomain": "localhost",
+    "port": 80,
+    "devPort": 4000
+  }
+}
