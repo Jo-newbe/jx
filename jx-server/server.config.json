@@ -9,6 +9,7 @@
     "domain": "",
     "devDomain": "localhost",
     "port": 80,
-    "devPort": 4000
+    "devPort": 4000,
+    "protocol": "http"
   }
 }
